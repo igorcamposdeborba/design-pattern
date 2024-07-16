@@ -11,7 +11,7 @@ public class PayoneerAdapter implements IPaypalPayment { // Adaptador para se ad
 	
 	public PayoneerAdapter(Payoneer payoneer) {
 		this.payoneer = payoneer;
-		System.out.println("adaptando o payoneer usando as assinaturas de métodos abstratos do Paypal");
+		System.out.println("Adaptando o payoneer usando as assinaturas de métodos abstratos do Paypal");
 	}
 	
 	@Override
