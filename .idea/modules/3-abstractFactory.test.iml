@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="3-abstractFactory:test" external.linked.project.path="$MODULE_DIR$/../../3-abstractFactory" external.root.project.path="$MODULE_DIR$/../../3-abstractFactory" external.system.id="GRADLE" external.system.module.group="org.igorborba" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output-test url="file://$MODULE_DIR$/../../3-abstractFactory/build/classes/java/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../3-abstractFactory/src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../3-abstractFactory/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../3-abstractFactory/src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="jdk" jdkName="openjdk-25" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="3-abstractFactory.main" />
+    <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter:5.10.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter-params:5.10.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter-api:5.10.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apiguardian:apiguardian-api:1.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.junit.platform:junit-platform-commons:1.10.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.opentest4j:opentest4j:1.3.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.jupiter:junit-jupiter-engine:5.10.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.platform:junit-platform-engine:1.10.0" level="project" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="f99fee11-b1f1-4a0e-a51e-a1de44e152cb" />
+  </component>
+  <component name="TestModuleProperties" production-module="3-abstractFactory.main" />
+</module>
